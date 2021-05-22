@@ -1,0 +1,1 @@
+The file contains android app's market evaluation based on different categories.
